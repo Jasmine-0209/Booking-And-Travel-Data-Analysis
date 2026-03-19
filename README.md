@@ -1,6 +1,13 @@
-# 🎯 1. KPI Section (Summary Metrics)
+# ✈️ Booking And Travel Analysis Dashboard
 
-These KPIs are displayed as top cards and provide a quick snapshot of overall performance.
+Interactive flight booking dashboard providing insights into bookings, revenue, passenger demographics, and travel trends.
+## 📊 Dataset: 
+<a href =" https://github.com/slidescope/Flight-Booking-Travel-Data-Analysis/blob/main/flight_bookings_sample.csv">Airline Dataset</a>
+
+# dashboard :
+<img width="1331" height="747" alt="Screenshot 2026-03-18 231420" src="https://github.com/user-attachments/assets/ee87bc20-fc2e-43f0-903f-65bdfafe1a47" />
+
+## Requirements
 
 ## 📊 Business Performance KPIs
 
