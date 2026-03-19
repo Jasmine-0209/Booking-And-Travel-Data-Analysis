@@ -124,4 +124,7 @@ Enables drill-down analysis
 
 Makes dashboard interactive and user-friendly
 
+<img width="1331" height="747" alt="Screenshot 2026-03-18 231420" src="https://github.com/user-attachments/assets/ee87bc20-fc2e-43f0-903f-65bdfafe1a47" />
+
+
 
