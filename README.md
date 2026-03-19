@@ -1,8 +1,8 @@
 # ✈️ Booking And Travel Analysis Dashboard
 
 Interactive flight booking dashboard providing insights into bookings, revenue, passenger demographics, and travel trends.
-## 📊 Dataset: 
-<a href =" https://github.com/slidescope/Flight-Booking-Travel-Data-Analysis/blob/main/flight_bookings_sample.csv">Airline Dataset</a>
+## 📊 Dataset:
+[Airline Dataset](https://github.com/slidescope/Flight-Booking-Travel-Data-Analysis/blob/main/flight_bookings_sample.csv)
 
 # dashboard :
 <img width="1331" height="747" alt="Screenshot 2026-03-18 231420" src="https://github.com/user-attachments/assets/ee87bc20-fc2e-43f0-903f-65bdfafe1a47" />
@@ -130,9 +130,7 @@ All KPIs and charts update dynamically
 Enables drill-down analysis
 
 Makes dashboard interactive and user-friendly
-# Booking And Travel Analysis Dashboard
 
-<img width="1331" height="747" alt="Screenshot 2026-03-18 231420" src="https://github.com/user-attachments/assets/ee87bc20-fc2e-43f0-903f-65bdfafe1a47" />
 
 
 
