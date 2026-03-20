@@ -11,31 +11,31 @@ Interactive flight booking dashboard providing insights into bookings, revenue, 
 
 ## 📊 Business Performance KPIs
 
-### Total Bookings (250)
+### Total Bookings 
 → Total number of flight bookings made.
 → Helps measure overall system usage and demand.
 
-### Total Revenue (645K)
+### Total Revenue 
 → Total income generated from ticket sales.
 → Indicates business profitability and growth.
 
-### Average Ticket Price (2.58K)
+### Average Ticket Price 
 → Average cost per ticket across all bookings.
 → Useful for pricing strategy and revenue optimization.
 
 ## 👥 Customer KPI
 
-### Average Passenger Age (45.60)
+### Average Passenger Age 
 → Average age of all passengers.
 → Helps identify the primary customer segment.
 
 ## ✈️ Operational KPIs
 
-### Total Distance Traveled (1.89M km)
+### Total Distance Traveled 
 → Total kilometers covered by all flights.
 → Indicates operational scale and travel volume.
 
-### Average Flight Duration (11.04 hrs)
+### Average Flight Duration 
 → Average time per flight.
 → Helps analyze route length and efficiency.
 
